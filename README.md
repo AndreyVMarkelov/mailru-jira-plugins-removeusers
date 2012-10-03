@@ -1,4 +1,4 @@
 mailru-jira-plugins-removeusers
 ===============================
 
-Removeusers from user pickers
+Remove users from user pickers
